@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zomato-Turnover/static/css/main.44d0b84b.css",
+    "main.js": "/Zomato-Turnover/static/js/main.8d6af49e.js",
+    "static/js/787.3a08a0e4.chunk.js": "/Zomato-Turnover/static/js/787.3a08a0e4.chunk.js",
+    "index.html": "/Zomato-Turnover/index.html",
+    "main.44d0b84b.css.map": "/Zomato-Turnover/static/css/main.44d0b84b.css.map",
+    "main.8d6af49e.js.map": "/Zomato-Turnover/static/js/main.8d6af49e.js.map",
+    "787.3a08a0e4.chunk.js.map": "/Zomato-Turnover/static/js/787.3a08a0e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d0b84b.css",
+    "static/js/main.8d6af49e.js"
+  ]
+}
