@@ -1,0 +1,295 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: whitesmoke;
+  /* color:black; */
+  font-family: cursive;
+  /* border: 2px solid; */
+  /* height:100%; */
+}
+
+.grid-container{
+  display:grid;
+  grid-template-columns: 260px 1fr 1fr 1fr;
+  grid-template-rows: 0.2fr 3fr;
+  grid-template-areas: 'sidebar header header header' 'sidebar main main main';
+  /* height: 200vh;
+  margin: 10px 0;
+  box-shadow: 2px 2px 3px 2px rgb(142, 103, 179); */
+  /* border: 2px solid; */
+  /* padding: 50px; */
+  
+}
+
+.header{
+  grid-area:header;
+  height:60px;
+  align-items:center;
+  text-align: center;
+ 
+}
+.header h1{
+  margin-left: -60px;
+}
+
+.header h1:hover{
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  transition: all .8s;
+
+}
+
+.sidebar{
+  grid-area:sidebar;
+  height:100%;
+   width:80%;
+  background-color:rgb(142, 103, 179);
+  overflow-y: auto;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  /* padding-right: -40px; */
+
+}
+
+.sidebar-title{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px 0 30px;
+  margin-bottom: 30px;
+}
+
+.sidebar-title > span{
+  display: none;
+}
+
+.sidebar-brand{
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: 700;
+  color:white;
+}
+
+.sidebar-list{
+  padding:0;
+  list-style-type: none;
+}
+
+.sidebar-list-item{
+  padding: 10px ;
+  font-size: 18px;
+  /* margin-left: 60px; */
+  border-radius: 30px;
+  color:white;
+
+}
+
+.sidebar-list-item:hover{
+  background-color: whitesmoke;
+  cursor: pointer;
+  color:black;
+  letter-spacing: 3px;
+}
+
+.sidebar-list-item >a{
+  text-decoration: none;
+  color:black;
+}
+
+.sidebar-responsive{
+  display:inline !important;
+  position: absolute;
+  z-index: 12 !important;
+}
+
+
+
+
+.menu-bar {
+  margin: 35px 0 100px 0;
+  }
+.menu-bar ul {
+  list-style: none;
+  display: flex;
+  }
+
+  .menu-bar ul li button {
+  font-size: 20px;
+  border:none;
+  background-color: transparent;
+  padding: 8px 10px;
+  width:120px;
+  margin-left: -15px;
+
+  }
+  .menu-bar ul li button:hover {
+  background-color: rgb(142, 103, 179);
+  border-radius: 20px;
+  color:white;
+  transition: all .8s;
+  /* transform: scale(0.2); */
+  cursor: pointer;
+  }
+
+  /* dropdown menu style */
+  .dropdown-menu {
+  /* display: none; */
+  margin-top: -5px;
+  margin-left: 170px;
+
+  }
+  .dropdown-menu ul li{
+    /* margin-right: -20px; */
+    margin-top: -43px;
+    /* margin-left: 20px; */
+  }
+ 
+  .menu-bar ul li:hover .dropdown-menu {
+  /* display: block; */
+  position: absolute;
+  
+  }
+
+  button{
+    font-weight: 100;
+    font-family: cursive;
+  }
+
+  .dropdown-menu-1,.dropdown-menu-2,.dropdown-menu-3,.dropdown-menu-4,.dropdown-menu-5 {
+  display: none;
+
+  }
+
+  .dropdown-menu-1 {
+
+    margin: 45px 0 0 -85px ;
+  }
+
+  .dropdown-menu-2 {
+
+    margin: 45px 0 0 -240px ;
+
+  }
+
+  .dropdown-menu-2 ul li button{
+    width:150px;
+
+  }
+  .dropdown-menu-3 {
+
+    margin: 45px 0 0 -320px ;
+
+  }
+  .dropdown-menu-4 {
+
+    margin: 45px 0 0 -445px ;
+
+  }
+  .dropdown-menu-4 ul li button
+  {
+    width:150px;
+
+  }
+  .dropdown-menu-5 ul li button{
+    width:130px;
+
+  }
+  .dropdown-menu-5 ul {
+
+    margin: 45px 0 0 -550px ;
+
+  }
+
+  .dropdown-menu ul li:hover .dropdown-menu-1{
+  display: block;
+  position: absolute;
+  }
+
+  .dropdown-menu ul li:hover .dropdown-menu-1{
+    display: block;
+    position: absolute;
+    }
+  .dropdown-menu ul li:hover .dropdown-menu-2{
+      display: block;
+      position: absolute;
+      }
+  .dropdown-menu ul li:hover .dropdown-menu-3{
+        display: block;
+        position: absolute;
+        }
+  .dropdown-menu ul li:hover .dropdown-menu-4{
+          display: block;
+          position: absolute;
+          }
+  .dropdown-menu ul li:hover .dropdown-menu-5{
+            display: block;
+            position: absolute;
+            }
+
+
+  .city{
+    display:none
+  }
+
+  .active-city{
+    display: block;
+  }
+
+
+
+
+
+  .charts{
+    margin-top: -25px;
+  }
+  .charts h1{
+    font-size: 20px;
+  }
+  .charts h1:hover{
+    letter-spacing: 5px;
+    text-transform: uppercase;
+  }
+  
+
+  .charts-container{
+    /* border:2px solid ; */
+    box-shadow: 1px 1px 3px 3px rgb(142, 103, 179); 
+    border-radius: 30px;
+    padding:10px 10px 20px 10px;
+    margin:0 0 10px -50px;
+    width:1100px;
+    height:100%;
+  }
+
+  .barChart,.lineChart{
+    width:97.6%;
+    padding:10px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 1px 2px rgb(142, 103, 179); 
+
+  }
+
+  .lineChart{
+    margin-top:20px;
+    height:390px;
+    width:820px;
+    padding-left:15px;
+
+
+  }
+  .doughnutChartCity,
+  .doughnutChartState{
+    height:418px;
+    width:240px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 1px 2px rgb(142, 103, 179); 
+    margin-left: 15px;
+  }
+
+  .doughnutChartState{
+    margin-top: 25px;
+    height:400px;
+
+  }
+
+ 

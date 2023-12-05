@@ -1,0 +1,1906 @@
+{
+  "states": {
+    "overall": [
+      {
+        "sName": "TN",
+        "sOverall": "300"
+      },
+      {
+        "sName": "BLR",
+        "sOverall": "394"
+      },
+      {
+        "sName": "HYD",
+        "sOverall": "450"
+      },
+      {
+        "sName": "MUM",
+        "sOverall": "420"
+      },
+      {
+        "sName": "DL",
+        "sOverall": "500"
+      }
+    ]
+  },
+  "bengaluru": {
+    "chandapura": {
+      "barChart": [
+        {
+          "id": 1,
+          "year": "Q3FY21",
+          "turnover": "120"
+        },
+        {
+          "id": 2,
+          "year": "Q4FY21",
+          "turnover": "90"
+        },
+        {
+          "id": 3,
+          "year": "Q1FY22",
+          "turnover": "210"
+        },
+        {
+          "id": 4,
+          "year": "Q2FY22",
+          "turnover": "170"
+        },
+        {
+          "id": 5,
+          "year": "Q3FY22",
+          "turnover": "230"
+        },
+        {
+          "id": 6,
+          "year": "Q4FY22",
+          "turnover": "110"
+        },
+        {
+          "id": 7,
+          "year": "Q1FY23",
+          "turnover": "90"
+        },
+        {
+          "id": 8,
+          "year": "Q2FY23",
+          "turnover": "234"
+        },
+        {
+          "id": 9,
+          "year": "Q3FY23",
+          "turnover": "132"
+        },
+        {
+          "id": 10,
+          "year": "Q4FY23",
+          "turnover": "100"
+        }
+      ],
+      "lineChart": [
+        {
+          "month": "1",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "2",
+          "monthTurnover": "90"
+        },
+        {
+          "month": "3",
+          "monthTurnover": "150"
+        },
+        {
+          "month": "4",
+          "monthTurnover": "60"
+        },
+        {
+          "month": "5",
+          "monthTurnover": "200"
+        },
+        {
+          "month": "6",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "7",
+          "monthTurnover": "130"
+        },
+        {
+          "month": "8",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "9",
+          "monthTurnover": "60"
+        },
+        {
+          "month": "10",
+          "monthTurnover": "130"
+        },
+        {
+          "month": "11",
+          "monthTurnover": "125"
+        },
+        {
+          "month": "12",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "13",
+          "monthTurnover": "180"
+        },
+        {
+          "month": "14",
+          "monthTurnover": "170"
+        },
+        {
+          "month": "15",
+          "monthTurnover": "100"
+        },
+        {
+          "month": "16",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "17",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "18",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "19",
+          "monthTurnover": "150"
+        },
+        {
+          "month": "20",
+          "monthTurnover": "80"
+        },
+        {
+          "month": "21",
+          "monthTurnover": "150"
+        },
+        {
+          "month": "22",
+          "monthTurnover": "160"
+        },
+        {
+          "month": "23",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "24",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "25",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "26",
+          "monthTurnover": "180"
+        },
+        {
+          "month": "27",
+          "monthTurnover": "150"
+        },
+        {
+          "month": "28",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "29",
+          "monthTurnover": "170"
+        },
+        {
+          "month": "30",
+          "monthTurnover": "200"
+        }
+      ]
+    },
+    "chikkabanavara": {
+      "barChart": [
+        {
+          "id": 1,
+          "year": "Q3FY21",
+          "turnover": "220"
+        },
+        {
+          "id": 2,
+          "year": "Q4FY21",
+          "turnover": "190"
+        },
+        {
+          "id": 3,
+          "year": "Q1FY22",
+          "turnover": "250"
+        },
+        {
+          "id": 4,
+          "year": "Q2FY22",
+          "turnover": "270"
+        },
+        {
+          "id": 5,
+          "year": "Q3FY22",
+          "turnover": "330"
+        },
+        {
+          "id": 6,
+          "year": "Q4FY22",
+          "turnover": "210"
+        },
+        {
+          "id": 7,
+          "year": "Q1FY23",
+          "turnover": "290"
+        },
+        {
+          "id": 8,
+          "year": "Q2FY23",
+          "turnover": "194"
+        },
+        {
+          "id": 9,
+          "year": "Q3FY23",
+          "turnover": "232"
+        },
+        {
+          "id": 10,
+          "year": "Q4FY23",
+          "turnover": "150"
+        }
+      ],
+      "lineChart": [
+        {
+          "month": "1",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "2",
+          "monthTurnover": "200"
+        },
+        {
+          "month": "3",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "4",
+          "monthTurnover": "260"
+        },
+        {
+          "month": "5",
+          "monthTurnover": "270"
+        },
+        {
+          "month": "6",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "7",
+          "monthTurnover": "260"
+        },
+        {
+          "month": "8",
+          "monthTurnover": "280"
+        },
+        {
+          "month": "9",
+          "monthTurnover": "240"
+        },
+        {
+          "month": "10",
+          "monthTurnover": "260"
+        },
+        {
+          "month": "11",
+          "monthTurnover": "125"
+        },
+        {
+          "month": "12",
+          "monthTurnover": "280"
+        },
+        {
+          "month": "13",
+          "monthTurnover": "230"
+        },
+        {
+          "month": "14",
+          "monthTurnover": "245"
+        },
+        {
+          "month": "15",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "16",
+          "monthTurnover": "215"
+        },
+        {
+          "month": "17",
+          "monthTurnover": "295"
+        },
+        {
+          "month": "18",
+          "monthTurnover": "215"
+        },
+        {
+          "month": "19",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "20",
+          "monthTurnover": "80"
+        },
+        {
+          "month": "21",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "22",
+          "monthTurnover": "215"
+        },
+        {
+          "month": "23",
+          "monthTurnover": "295"
+        },
+        {
+          "month": "24",
+          "monthTurnover": "215"
+        },
+        {
+          "month": "25",
+          "monthTurnover": "295"
+        },
+        {
+          "month": "26",
+          "monthTurnover": "180"
+        },
+        {
+          "month": "27",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "28",
+          "monthTurnover": "295"
+        },
+        {
+          "month": "29",
+          "monthTurnover": "245"
+        },
+        {
+          "month": "30",
+          "monthTurnover": "270"
+        }
+      ]
+    },
+    "koramangala": {
+      "barChart": [
+        {
+          "id": 1,
+          "year": "Q3FY21",
+          "turnover": "120"
+        },
+        {
+          "id": 2,
+          "year": "Q4FY21",
+          "turnover": "110"
+        },
+        {
+          "id": 3,
+          "year": "Q1FY22",
+          "turnover": "210"
+        },
+        {
+          "id": 4,
+          "year": "Q2FY22",
+          "turnover": "370"
+        },
+        {
+          "id": 5,
+          "year": "Q3FY22",
+          "turnover": "230"
+        },
+        {
+          "id": 6,
+          "year": "Q4FY22",
+          "turnover": "110"
+        },
+        {
+          "id": 7,
+          "year": "Q1FY23",
+          "turnover": "190"
+        },
+        {
+          "id": 8,
+          "year": "Q2FY23",
+          "turnover": "230"
+        },
+        {
+          "id": 9,
+          "year": "Q3FY23",
+          "turnover": "180"
+        },
+        {
+          "id": 10,
+          "year": "Q4FY23",
+          "turnover": "100"
+        }
+      ],
+      "lineChart": [
+        {
+          "month": "1",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "2",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "3",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "4",
+          "monthTurnover": "160"
+        },
+        {
+          "month": "5",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "6",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "7",
+          "monthTurnover": "130"
+        },
+        {
+          "month": "8",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "9",
+          "monthTurnover": "160"
+        },
+        {
+          "month": "10",
+          "monthTurnover": "130"
+        },
+        {
+          "month": "11",
+          "monthTurnover": "125"
+        },
+        {
+          "month": "12",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "13",
+          "monthTurnover": "180"
+        },
+        {
+          "month": "14",
+          "monthTurnover": "170"
+        },
+        {
+          "month": "15",
+          "monthTurnover": "100"
+        },
+        {
+          "month": "16",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "17",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "18",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "19",
+          "monthTurnover": "150"
+        },
+        {
+          "month": "20",
+          "monthTurnover": "180"
+        },
+        {
+          "month": "21",
+          "monthTurnover": "150"
+        },
+        {
+          "month": "22",
+          "monthTurnover": "160"
+        },
+        {
+          "month": "23",
+          "monthTurnover": "230"
+        },
+        {
+          "month": "24",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "25",
+          "monthTurnover": "180"
+        },
+        {
+          "month": "26",
+          "monthTurnover": "180"
+        },
+        {
+          "month": "27",
+          "monthTurnover": "150"
+        },
+        {
+          "month": "28",
+          "monthTurnover": "190"
+        },
+        {
+          "month": "29",
+          "monthTurnover": "170"
+        },
+        {
+          "month": "30",
+          "monthTurnover": "200"
+        }
+      ]
+    },
+    "thavarekere": {
+      "barChart": [
+        {
+          "id": 1,
+          "year": "Q3FY21",
+          "turnover": "220"
+        },
+        {
+          "id": 2,
+          "year": "Q4FY21",
+          "turnover": "210"
+        },
+        {
+          "id": 3,
+          "year": "Q1FY22",
+          "turnover": "250"
+        },
+        {
+          "id": 4,
+          "year": "Q2FY22",
+          "turnover": "250"
+        },
+        {
+          "id": 5,
+          "year": "Q3FY22",
+          "turnover": "230"
+        },
+        {
+          "id": 6,
+          "year": "Q4FY22",
+          "turnover": "270"
+        },
+        {
+          "id": 7,
+          "year": "Q1FY23",
+          "turnover": "290"
+        },
+        {
+          "id": 8,
+          "year": "Q2FY23",
+          "turnover": "190"
+        },
+        {
+          "id": 9,
+          "year": "Q3FY23",
+          "turnover": "240"
+        },
+        {
+          "id": 10,
+          "year": "Q4FY23",
+          "turnover": "250"
+        }
+      ],
+      "lineChart": [
+        {
+          "month": "1",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "2",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "3",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "4",
+          "monthTurnover": "260"
+        },
+        {
+          "month": "5",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "6",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "7",
+          "monthTurnover": "260"
+        },
+        {
+          "month": "8",
+          "monthTurnover": "230"
+        },
+        {
+          "month": "9",
+          "monthTurnover": "240"
+        },
+        {
+          "month": "10",
+          "monthTurnover": "260"
+        },
+        {
+          "month": "11",
+          "monthTurnover": "120"
+        },
+        {
+          "month": "12",
+          "monthTurnover": "280"
+        },
+        {
+          "month": "13",
+          "monthTurnover": "240"
+        },
+        {
+          "month": "14",
+          "monthTurnover": "245"
+        },
+        {
+          "month": "15",
+          "monthTurnover": "140"
+        },
+        {
+          "month": "16",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "17",
+          "monthTurnover": "295"
+        },
+        {
+          "month": "18",
+          "monthTurnover": "215"
+        },
+        {
+          "month": "19",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "20",
+          "monthTurnover": "280"
+        },
+        {
+          "month": "21",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "22",
+          "monthTurnover": "215"
+        },
+        {
+          "month": "23",
+          "monthTurnover": "290"
+        },
+        {
+          "month": "24",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "25",
+          "monthTurnover": "240"
+        },
+        {
+          "month": "26",
+          "monthTurnover": "180"
+        },
+        {
+          "month": "27",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "28",
+          "monthTurnover": "240"
+        },
+        {
+          "month": "29",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "30",
+          "monthTurnover": "270"
+        }
+      ]
+    },
+    "whitefield": {
+      "barChart": [
+        {
+          "id": 1,
+          "year": "Q3FY21",
+          "turnover": "220"
+        },
+        {
+          "id": 2,
+          "year": "Q4FY21",
+          "turnover": "190"
+        },
+        {
+          "id": 3,
+          "year": "Q1FY22",
+          "turnover": "250"
+        },
+        {
+          "id": 4,
+          "year": "Q2FY22",
+          "turnover": "240"
+        },
+        {
+          "id": 5,
+          "year": "Q3FY22",
+          "turnover": "330"
+        },
+        {
+          "id": 6,
+          "year": "Q4FY22",
+          "turnover": "230"
+        },
+        {
+          "id": 7,
+          "year": "Q1FY23",
+          "turnover": "290"
+        },
+        {
+          "id": 8,
+          "year": "Q2FY23",
+          "turnover": "190"
+        },
+        {
+          "id": 9,
+          "year": "Q3FY23",
+          "turnover": "230"
+        },
+        {
+          "id": 10,
+          "year": "Q4FY23",
+          "turnover": "160"
+        }
+      ],
+      "lineChart": [
+        {
+          "month": "1",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "2",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "3",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "4",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "5",
+          "monthTurnover": "270"
+        },
+        {
+          "month": "6",
+          "monthTurnover": "240"
+        },
+        {
+          "month": "7",
+          "monthTurnover": "260"
+        },
+        {
+          "month": "8",
+          "monthTurnover": "290"
+        },
+        {
+          "month": "9",
+          "monthTurnover": "240"
+        },
+        {
+          "month": "10",
+          "monthTurnover": "270"
+        },
+        {
+          "month": "11",
+          "monthTurnover": "220"
+        },
+        {
+          "month": "12",
+          "monthTurnover": "280"
+        },
+        {
+          "month": "13",
+          "monthTurnover": "230"
+        },
+        {
+          "month": "14",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "15",
+          "monthTurnover": "240"
+        },
+        {
+          "month": "16",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "17",
+          "monthTurnover": "290"
+        },
+        {
+          "month": "18",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "19",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "20",
+          "monthTurnover": "280"
+        },
+        {
+          "month": "21",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "22",
+          "monthTurnover": "210"
+        },
+        {
+          "month": "23",
+          "monthTurnover": "290"
+        },
+        {
+          "month": "24",
+          "monthTurnover": "230"
+        },
+        {
+          "month": "25",
+          "monthTurnover": "290"
+        },
+        {
+          "month": "26",
+          "monthTurnover": "280"
+        },
+        {
+          "month": "27",
+          "monthTurnover": "250"
+        },
+        {
+          "month": "28",
+          "monthTurnover": "295"
+        },
+        {
+          "month": "29",
+          "monthTurnover": "245"
+        },
+        {
+          "month": "30",
+          "monthTurnover": "270"
+        }
+      ]
+    },
+    "overall": [
+      {
+        "cName": "KOR",
+        "cOverall": "234"
+      },
+      {
+        "cName": "CHAN",
+        "cOverall": "254"
+      },
+      {
+        "cName": "THA",
+        "cOverall": "270"
+      },
+      {
+        "cName": "CHIKK",
+        "cOverall": "190"
+      },
+      {
+        "cName": "WF",
+        "cOverall": "200"
+      }
+    ]
+  },
+  "delhi": {
+    "cd": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "120" },
+        { "id": 2, "year": "Q4FY21", "turnover": "90" },
+        { "id": 3, "year": "Q1FY22", "turnover": "210" },
+        { "id": 4, "year": "Q2FY22", "turnover": "170" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "110" },
+        { "id": 7, "year": "Q1FY23", "turnover": "90" },
+        { "id": 8, "year": "Q2FY23", "turnover": "234" },
+        { "id": 9, "year": "Q3FY23", "turnover": "132" },
+        { "id": 10, "year": "Q4FY23", "turnover": "100" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "120" },
+        { "month": "2", "monthTurnover": "90" },
+        { "month": "3", "monthTurnover": "150" },
+        { "month": "4", "monthTurnover": "60" },
+        { "month": "5", "monthTurnover": "200" },
+        { "month": "6", "monthTurnover": "190" },
+        { "month": "7", "monthTurnover": "130" },
+        { "month": "8", "monthTurnover": "120" },
+        { "month": "9", "monthTurnover": "60" },
+        { "month": "10", "monthTurnover": "130" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "220" },
+        { "month": "13", "monthTurnover": "180" },
+        { "month": "14", "monthTurnover": "170" },
+        { "month": "15", "monthTurnover": "100" },
+        { "month": "16", "monthTurnover": "190" },
+        { "month": "17", "monthTurnover": "120" },
+        { "month": "18", "monthTurnover": "190" },
+        { "month": "19", "monthTurnover": "150" },
+        { "month": "20", "monthTurnover": "80" },
+        { "month": "21", "monthTurnover": "150" },
+        { "month": "22", "monthTurnover": "160" },
+        { "month": "23", "monthTurnover": "220" },
+        { "month": "24", "monthTurnover": "210" },
+        { "month": "25", "monthTurnover": "120" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "150" },
+        { "month": "28", "monthTurnover": "120" },
+        { "month": "29", "monthTurnover": "170" },
+        { "month": "30", "monthTurnover": "200" }
+      ]
+      
+    },
+    "ed": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "190" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "270" },
+        { "id": 5, "year": "Q3FY22", "turnover": "330" },
+        { "id": 6, "year": "Q4FY22", "turnover": "210" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "194" },
+        { "id": 9, "year": "Q3FY23", "turnover": "232" },
+        { "id": 10, "year": "Q4FY23", "turnover": "150" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "200" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "260" },
+        { "month": "5", "monthTurnover": "270" },
+        { "month": "6", "monthTurnover": "210" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "280" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "260" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "230" },
+        { "month": "14", "monthTurnover": "245" },
+        { "month": "15", "monthTurnover": "190" },
+        { "month": "16", "monthTurnover": "215" },
+        { "month": "17", "monthTurnover": "295" },
+        { "month": "18", "monthTurnover": "215" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "80" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "215" },
+        { "month": "23", "monthTurnover": "295" },
+        { "month": "24", "monthTurnover": "215" },
+        { "month": "25", "monthTurnover": "295" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "295" },
+        { "month": "29", "monthTurnover": "245" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "nd": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "120" },
+        { "id": 2, "year": "Q4FY21", "turnover": "110" },
+        { "id": 3, "year": "Q1FY22", "turnover": "210" },
+        { "id": 4, "year": "Q2FY22", "turnover": "370" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "110" },
+        { "id": 7, "year": "Q1FY23", "turnover": "190" },
+        { "id": 8, "year": "Q2FY23", "turnover": "230" },
+        { "id": 9, "year": "Q3FY23", "turnover": "180" },
+        { "id": 10, "year": "Q4FY23", "turnover": "100" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "120" },
+        { "month": "2", "monthTurnover": "190" },
+        { "month": "3", "monthTurnover": "210" },
+        { "month": "4", "monthTurnover": "160" },
+        { "month": "5", "monthTurnover": "220" },
+        { "month": "6", "monthTurnover": "190" },
+        { "month": "7", "monthTurnover": "130" },
+        { "month": "8", "monthTurnover": "120" },
+        { "month": "9", "monthTurnover": "160" },
+        { "month": "10", "monthTurnover": "130" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "220" },
+        { "month": "13", "monthTurnover": "180" },
+        { "month": "14", "monthTurnover": "170" },
+        { "month": "15", "monthTurnover": "100" },
+        { "month": "16", "monthTurnover": "190" },
+        { "month": "17", "monthTurnover": "120" },
+        { "month": "18", "monthTurnover": "190" },
+        { "month": "19", "monthTurnover": "150" },
+        { "month": "20", "monthTurnover": "180" },
+        { "month": "21", "monthTurnover": "150" },
+        { "month": "22", "monthTurnover": "160" },
+        { "month": "23", "monthTurnover": "230" },
+        { "month": "24", "monthTurnover": "250" },
+        { "month": "25", "monthTurnover": "180" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "150" },
+        { "month": "28", "monthTurnover": "190" },
+        { "month": "29", "monthTurnover": "170" },
+        { "month": "30", "monthTurnover": "200" }
+      ]
+      
+    },
+    "new": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "210" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "250" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "270" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "190" },
+        { "id": 9, "year": "Q3FY23", "turnover": "240" },
+        { "id": 10, "year": "Q4FY23", "turnover": "250" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "220" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "260" },
+        { "month": "5", "monthTurnover": "250" },
+        { "month": "6", "monthTurnover": "210" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "230" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "260" },
+        { "month": "11", "monthTurnover": "120" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "240" },
+        { "month": "14", "monthTurnover": "245" },
+        { "month": "15", "monthTurnover": "140" },
+        { "month": "16", "monthTurnover": "210" },
+        { "month": "17", "monthTurnover": "295" },
+        { "month": "18", "monthTurnover": "215" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "280" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "215" },
+        { "month": "23", "monthTurnover": "290" },
+        { "month": "24", "monthTurnover": "210" },
+        { "month": "25", "monthTurnover": "240" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "240" },
+        { "month": "29", "monthTurnover": "250" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "shahdara": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "190" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "240" },
+        { "id": 5, "year": "Q3FY22", "turnover": "330" },
+        { "id": 6, "year": "Q4FY22", "turnover": "230" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "190" },
+        { "id": 9, "year": "Q3FY23", "turnover": "230" },
+        { "id": 10, "year": "Q4FY23", "turnover": "160" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "220" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "220" },
+        { "month": "5", "monthTurnover": "270" },
+        { "month": "6", "monthTurnover": "240" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "290" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "270" },
+        { "month": "11", "monthTurnover": "220" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "230" },
+        { "month": "14", "monthTurnover": "210" },
+        { "month": "15", "monthTurnover": "240" },
+        { "month": "16", "monthTurnover": "210" },
+        { "month": "17", "monthTurnover": "290" },
+        { "month": "18", "monthTurnover": "210" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "280" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "210" },
+        { "month": "23", "monthTurnover": "290" },
+        { "month": "24", "monthTurnover": "230" },
+        { "month": "25", "monthTurnover": "290" },
+        { "month": "26", "monthTurnover": "280" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "295" },
+        { "month": "29", "monthTurnover": "245" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "overall": [
+      { "cName": "CD", "cOverall": "234" },
+      { "cName": "ED", "cOverall": "254" },
+      { "cName": "ND", "cOverall": "270" },
+      { "cName": "NEW", "cOverall": "190" },
+      { "cName": "SHA", "cOverall": "200" }
+    ]
+  },
+  "hydrabad": {
+    "bandlaguda": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "120" },
+        { "id": 2, "year": "Q4FY21", "turnover": "90" },
+        { "id": 3, "year": "Q1FY22", "turnover": "210" },
+        { "id": 4, "year": "Q2FY22", "turnover": "170" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "110" },
+        { "id": 7, "year": "Q1FY23", "turnover": "90" },
+        { "id": 8, "year": "Q2FY23", "turnover": "234" },
+        { "id": 9, "year": "Q3FY23", "turnover": "132" },
+        { "id": 10, "year": "Q4FY23", "turnover": "100" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "120" },
+        { "month": "2", "monthTurnover": "90" },
+        { "month": "3", "monthTurnover": "150" },
+        { "month": "4", "monthTurnover": "60" },
+        { "month": "5", "monthTurnover": "200" },
+        { "month": "6", "monthTurnover": "190" },
+        { "month": "7", "monthTurnover": "130" },
+        { "month": "8", "monthTurnover": "120" },
+        { "month": "9", "monthTurnover": "60" },
+        { "month": "10", "monthTurnover": "130" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "220" },
+        { "month": "13", "monthTurnover": "180" },
+        { "month": "14", "monthTurnover": "170" },
+        { "month": "15", "monthTurnover": "100" },
+        { "month": "16", "monthTurnover": "190" },
+        { "month": "17", "monthTurnover": "120" },
+        { "month": "18", "monthTurnover": "190" },
+        { "month": "19", "monthTurnover": "150" },
+        { "month": "20", "monthTurnover": "80" },
+        { "month": "21", "monthTurnover": "150" },
+        { "month": "22", "monthTurnover": "160" },
+        { "month": "23", "monthTurnover": "220" },
+        { "month": "24", "monthTurnover": "210" },
+        { "month": "25", "monthTurnover": "120" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "150" },
+        { "month": "28", "monthTurnover": "120" },
+        { "month": "29", "monthTurnover": "170" },
+        { "month": "30", "monthTurnover": "200" }
+      ]
+      
+    },
+    "golconda": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "190" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "270" },
+        { "id": 5, "year": "Q3FY22", "turnover": "330" },
+        { "id": 6, "year": "Q4FY22", "turnover": "210" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "194" },
+        { "id": 9, "year": "Q3FY23", "turnover": "232" },
+        { "id": 10, "year": "Q4FY23", "turnover": "150" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "200" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "260" },
+        { "month": "5", "monthTurnover": "270" },
+        { "month": "6", "monthTurnover": "210" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "280" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "260" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "230" },
+        { "month": "14", "monthTurnover": "245" },
+        { "month": "15", "monthTurnover": "190" },
+        { "month": "16", "monthTurnover": "215" },
+        { "month": "17", "monthTurnover": "295" },
+        { "month": "18", "monthTurnover": "215" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "80" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "215" },
+        { "month": "23", "monthTurnover": "295" },
+        { "month": "24", "monthTurnover": "215" },
+        { "month": "25", "monthTurnover": "295" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "295" },
+        { "month": "29", "monthTurnover": "245" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "namoally": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "120" },
+        { "id": 2, "year": "Q4FY21", "turnover": "110" },
+        { "id": 3, "year": "Q1FY22", "turnover": "210" },
+        { "id": 4, "year": "Q2FY22", "turnover": "370" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "110" },
+        { "id": 7, "year": "Q1FY23", "turnover": "190" },
+        { "id": 8, "year": "Q2FY23", "turnover": "230" },
+        { "id": 9, "year": "Q3FY23", "turnover": "180" },
+        { "id": 10, "year": "Q4FY23", "turnover": "100" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "120" },
+        { "month": "2", "monthTurnover": "190" },
+        { "month": "3", "monthTurnover": "210" },
+        { "month": "4", "monthTurnover": "160" },
+        { "month": "5", "monthTurnover": "220" },
+        { "month": "6", "monthTurnover": "190" },
+        { "month": "7", "monthTurnover": "130" },
+        { "month": "8", "monthTurnover": "120" },
+        { "month": "9", "monthTurnover": "160" },
+        { "month": "10", "monthTurnover": "130" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "220" },
+        { "month": "13", "monthTurnover": "180" },
+        { "month": "14", "monthTurnover": "170" },
+        { "month": "15", "monthTurnover": "100" },
+        { "month": "16", "monthTurnover": "190" },
+        { "month": "17", "monthTurnover": "120" },
+        { "month": "18", "monthTurnover": "190" },
+        { "month": "19", "monthTurnover": "150" },
+        { "month": "20", "monthTurnover": "180" },
+        { "month": "21", "monthTurnover": "150" },
+        { "month": "22", "monthTurnover": "160" },
+        { "month": "23", "monthTurnover": "230" },
+        { "month": "24", "monthTurnover": "250" },
+        { "month": "25", "monthTurnover": "180" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "150" },
+        { "month": "28", "monthTurnover": "190" },
+        { "month": "29", "monthTurnover": "170" },
+        { "month": "30", "monthTurnover": "200" }
+      ]
+      
+    },
+    "saidabad": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "210" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "250" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "270" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "190" },
+        { "id": 9, "year": "Q3FY23", "turnover": "240" },
+        { "id": 10, "year": "Q4FY23", "turnover": "250" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "220" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "260" },
+        { "month": "5", "monthTurnover": "250" },
+        { "month": "6", "monthTurnover": "210" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "230" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "260" },
+        { "month": "11", "monthTurnover": "120" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "240" },
+        { "month": "14", "monthTurnover": "245" },
+        { "month": "15", "monthTurnover": "140" },
+        { "month": "16", "monthTurnover": "210" },
+        { "month": "17", "monthTurnover": "295" },
+        { "month": "18", "monthTurnover": "215" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "280" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "215" },
+        { "month": "23", "monthTurnover": "290" },
+        { "month": "24", "monthTurnover": "210" },
+        { "month": "25", "monthTurnover": "240" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "240" },
+        { "month": "29", "monthTurnover": "250" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "shaikpet": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "190" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "240" },
+        { "id": 5, "year": "Q3FY22", "turnover": "330" },
+        { "id": 6, "year": "Q4FY22", "turnover": "230" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "190" },
+        { "id": 9, "year": "Q3FY23", "turnover": "230" },
+        { "id": 10, "year": "Q4FY23", "turnover": "160" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "220" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "220" },
+        { "month": "5", "monthTurnover": "270" },
+        { "month": "6", "monthTurnover": "240" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "290" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "270" },
+        { "month": "11", "monthTurnover": "220" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "230" },
+        { "month": "14", "monthTurnover": "210" },
+        { "month": "15", "monthTurnover": "240" },
+        { "month": "16", "monthTurnover": "210" },
+        { "month": "17", "monthTurnover": "290" },
+        { "month": "18", "monthTurnover": "210" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "280" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "210" },
+        { "month": "23", "monthTurnover": "290" },
+        { "month": "24", "monthTurnover": "230" },
+        { "month": "25", "monthTurnover": "290" },
+        { "month": "26", "monthTurnover": "280" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "295" },
+        { "month": "29", "monthTurnover": "245" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "overall": [
+      { "cName": "BAN", "cOverall": "234" },
+      { "cName": "GOL", "cOverall": "254" },
+      { "cName": "NAM", "cOverall": "270" },
+      { "cName": "SAI", "cOverall": "190" },
+      { "cName": "SHAIK", "cOverall": "200" }
+    ]
+  },
+  "mumbai": {
+    "palghar": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "120" },
+        { "id": 2, "year": "Q4FY21", "turnover": "90" },
+        { "id": 3, "year": "Q1FY22", "turnover": "210" },
+        { "id": 4, "year": "Q2FY22", "turnover": "170" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "110" },
+        { "id": 7, "year": "Q1FY23", "turnover": "90" },
+        { "id": 8, "year": "Q2FY23", "turnover": "234" },
+        { "id": 9, "year": "Q3FY23", "turnover": "132" },
+        { "id": 10, "year": "Q4FY23", "turnover": "100" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "120" },
+        { "month": "2", "monthTurnover": "90" },
+        { "month": "3", "monthTurnover": "150" },
+        { "month": "4", "monthTurnover": "60" },
+        { "month": "5", "monthTurnover": "200" },
+        { "month": "6", "monthTurnover": "190" },
+        { "month": "7", "monthTurnover": "130" },
+        { "month": "8", "monthTurnover": "120" },
+        { "month": "9", "monthTurnover": "60" },
+        { "month": "10", "monthTurnover": "130" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "220" },
+        { "month": "13", "monthTurnover": "180" },
+        { "month": "14", "monthTurnover": "170" },
+        { "month": "15", "monthTurnover": "100" },
+        { "month": "16", "monthTurnover": "190" },
+        { "month": "17", "monthTurnover": "120" },
+        { "month": "18", "monthTurnover": "190" },
+        { "month": "19", "monthTurnover": "150" },
+        { "month": "20", "monthTurnover": "80" },
+        { "month": "21", "monthTurnover": "150" },
+        { "month": "22", "monthTurnover": "160" },
+        { "month": "23", "monthTurnover": "220" },
+        { "month": "24", "monthTurnover": "210" },
+        { "month": "25", "monthTurnover": "120" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "150" },
+        { "month": "28", "monthTurnover": "120" },
+        { "month": "29", "monthTurnover": "170" },
+        { "month": "30", "monthTurnover": "200" }
+      ]
+      
+    },
+    "raigad": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "190" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "270" },
+        { "id": 5, "year": "Q3FY22", "turnover": "330" },
+        { "id": 6, "year": "Q4FY22", "turnover": "210" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "194" },
+        { "id": 9, "year": "Q3FY23", "turnover": "232" },
+        { "id": 10, "year": "Q4FY23", "turnover": "150" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "200" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "260" },
+        { "month": "5", "monthTurnover": "270" },
+        { "month": "6", "monthTurnover": "210" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "280" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "260" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "230" },
+        { "month": "14", "monthTurnover": "245" },
+        { "month": "15", "monthTurnover": "190" },
+        { "month": "16", "monthTurnover": "215" },
+        { "month": "17", "monthTurnover": "295" },
+        { "month": "18", "monthTurnover": "215" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "80" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "215" },
+        { "month": "23", "monthTurnover": "295" },
+        { "month": "24", "monthTurnover": "215" },
+        { "month": "25", "monthTurnover": "295" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "295" },
+        { "month": "29", "monthTurnover": "245" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "ratnagiri": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "120" },
+        { "id": 2, "year": "Q4FY21", "turnover": "110" },
+        { "id": 3, "year": "Q1FY22", "turnover": "210" },
+        { "id": 4, "year": "Q2FY22", "turnover": "370" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "110" },
+        { "id": 7, "year": "Q1FY23", "turnover": "190" },
+        { "id": 8, "year": "Q2FY23", "turnover": "230" },
+        { "id": 9, "year": "Q3FY23", "turnover": "180" },
+        { "id": 10, "year": "Q4FY23", "turnover": "100" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "120" },
+        { "month": "2", "monthTurnover": "190" },
+        { "month": "3", "monthTurnover": "210" },
+        { "month": "4", "monthTurnover": "160" },
+        { "month": "5", "monthTurnover": "220" },
+        { "month": "6", "monthTurnover": "190" },
+        { "month": "7", "monthTurnover": "130" },
+        { "month": "8", "monthTurnover": "120" },
+        { "month": "9", "monthTurnover": "160" },
+        { "month": "10", "monthTurnover": "130" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "220" },
+        { "month": "13", "monthTurnover": "180" },
+        { "month": "14", "monthTurnover": "170" },
+        { "month": "15", "monthTurnover": "100" },
+        { "month": "16", "monthTurnover": "190" },
+        { "month": "17", "monthTurnover": "120" },
+        { "month": "18", "monthTurnover": "190" },
+        { "month": "19", "monthTurnover": "150" },
+        { "month": "20", "monthTurnover": "180" },
+        { "month": "21", "monthTurnover": "150" },
+        { "month": "22", "monthTurnover": "160" },
+        { "month": "23", "monthTurnover": "230" },
+        { "month": "24", "monthTurnover": "250" },
+        { "month": "25", "monthTurnover": "180" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "150" },
+        { "month": "28", "monthTurnover": "190" },
+        { "month": "29", "monthTurnover": "170" },
+        { "month": "30", "monthTurnover": "200" }
+      ]
+      
+    },
+    "sindhudurg": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "210" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "250" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "270" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "190" },
+        { "id": 9, "year": "Q3FY23", "turnover": "240" },
+        { "id": 10, "year": "Q4FY23", "turnover": "250" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "220" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "260" },
+        { "month": "5", "monthTurnover": "250" },
+        { "month": "6", "monthTurnover": "210" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "230" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "260" },
+        { "month": "11", "monthTurnover": "120" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "240" },
+        { "month": "14", "monthTurnover": "245" },
+        { "month": "15", "monthTurnover": "140" },
+        { "month": "16", "monthTurnover": "210" },
+        { "month": "17", "monthTurnover": "295" },
+        { "month": "18", "monthTurnover": "215" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "280" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "215" },
+        { "month": "23", "monthTurnover": "290" },
+        { "month": "24", "monthTurnover": "210" },
+        { "month": "25", "monthTurnover": "240" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "240" },
+        { "month": "29", "monthTurnover": "250" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "thane": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "190" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "240" },
+        { "id": 5, "year": "Q3FY22", "turnover": "330" },
+        { "id": 6, "year": "Q4FY22", "turnover": "230" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "190" },
+        { "id": 9, "year": "Q3FY23", "turnover": "230" },
+        { "id": 10, "year": "Q4FY23", "turnover": "160" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "220" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "220" },
+        { "month": "5", "monthTurnover": "270" },
+        { "month": "6", "monthTurnover": "240" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "290" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "270" },
+        { "month": "11", "monthTurnover": "220" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "230" },
+        { "month": "14", "monthTurnover": "210" },
+        { "month": "15", "monthTurnover": "240" },
+        { "month": "16", "monthTurnover": "210" },
+        { "month": "17", "monthTurnover": "290" },
+        { "month": "18", "monthTurnover": "210" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "280" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "210" },
+        { "month": "23", "monthTurnover": "290" },
+        { "month": "24", "monthTurnover": "230" },
+        { "month": "25", "monthTurnover": "290" },
+        { "month": "26", "monthTurnover": "280" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "295" },
+        { "month": "29", "monthTurnover": "245" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "overall": [
+      { "cName": "PAL", "cOverall": "234" },
+      { "cName": "RAI", "cOverall": "254" },
+      { "cName": "RATNA", "cOverall": "270" },
+      { "cName": "SIN", "cOverall": "190" },
+      { "cName": "THANE", "cOverall": "200" }
+    ]
+  },
+   "tamilnadu": {
+    "coimbatore": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "120" },
+        { "id": 2, "year": "Q4FY21", "turnover": "90" },
+        { "id": 3, "year": "Q1FY22", "turnover": "210" },
+        { "id": 4, "year": "Q2FY22", "turnover": "170" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "110" },
+        { "id": 7, "year": "Q1FY23", "turnover": "90" },
+        { "id": 8, "year": "Q2FY23", "turnover": "234" },
+        { "id": 9, "year": "Q3FY23", "turnover": "132" },
+        { "id": 10, "year": "Q4FY23", "turnover": "100" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "120" },
+        { "month": "2", "monthTurnover": "90" },
+        { "month": "3", "monthTurnover": "150" },
+        { "month": "4", "monthTurnover": "60" },
+        { "month": "5", "monthTurnover": "200" },
+        { "month": "6", "monthTurnover": "190" },
+        { "month": "7", "monthTurnover": "130" },
+        { "month": "8", "monthTurnover": "120" },
+        { "month": "9", "monthTurnover": "60" },
+        { "month": "10", "monthTurnover": "130" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "220" },
+        { "month": "13", "monthTurnover": "180" },
+        { "month": "14", "monthTurnover": "170" },
+        { "month": "15", "monthTurnover": "100" },
+        { "month": "16", "monthTurnover": "190" },
+        { "month": "17", "monthTurnover": "120" },
+        { "month": "18", "monthTurnover": "190" },
+        { "month": "19", "monthTurnover": "150" },
+        { "month": "20", "monthTurnover": "80" },
+        { "month": "21", "monthTurnover": "150" },
+        { "month": "22", "monthTurnover": "160" },
+        { "month": "23", "monthTurnover": "220" },
+        { "month": "24", "monthTurnover": "210" },
+        { "month": "25", "monthTurnover": "120" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "150" },
+        { "month": "28", "monthTurnover": "120" },
+        { "month": "29", "monthTurnover": "170" },
+        { "month": "30", "monthTurnover": "200" }
+      ]
+      
+    },
+    "chennai": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "190" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "270" },
+        { "id": 5, "year": "Q3FY22", "turnover": "330" },
+        { "id": 6, "year": "Q4FY22", "turnover": "210" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "194" },
+        { "id": 9, "year": "Q3FY23", "turnover": "232" },
+        { "id": 10, "year": "Q4FY23", "turnover": "150" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "200" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "260" },
+        { "month": "5", "monthTurnover": "270" },
+        { "month": "6", "monthTurnover": "210" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "280" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "260" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "230" },
+        { "month": "14", "monthTurnover": "245" },
+        { "month": "15", "monthTurnover": "190" },
+        { "month": "16", "monthTurnover": "215" },
+        { "month": "17", "monthTurnover": "295" },
+        { "month": "18", "monthTurnover": "215" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "80" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "215" },
+        { "month": "23", "monthTurnover": "295" },
+        { "month": "24", "monthTurnover": "215" },
+        { "month": "25", "monthTurnover": "295" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "295" },
+        { "month": "29", "monthTurnover": "245" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "kancheepuram": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "120" },
+        { "id": 2, "year": "Q4FY21", "turnover": "110" },
+        { "id": 3, "year": "Q1FY22", "turnover": "210" },
+        { "id": 4, "year": "Q2FY22", "turnover": "370" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "110" },
+        { "id": 7, "year": "Q1FY23", "turnover": "190" },
+        { "id": 8, "year": "Q2FY23", "turnover": "230" },
+        { "id": 9, "year": "Q3FY23", "turnover": "180" },
+        { "id": 10, "year": "Q4FY23", "turnover": "100" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "120" },
+        { "month": "2", "monthTurnover": "190" },
+        { "month": "3", "monthTurnover": "210" },
+        { "month": "4", "monthTurnover": "160" },
+        { "month": "5", "monthTurnover": "220" },
+        { "month": "6", "monthTurnover": "190" },
+        { "month": "7", "monthTurnover": "130" },
+        { "month": "8", "monthTurnover": "120" },
+        { "month": "9", "monthTurnover": "160" },
+        { "month": "10", "monthTurnover": "130" },
+        { "month": "11", "monthTurnover": "125" },
+        { "month": "12", "monthTurnover": "220" },
+        { "month": "13", "monthTurnover": "180" },
+        { "month": "14", "monthTurnover": "170" },
+        { "month": "15", "monthTurnover": "100" },
+        { "month": "16", "monthTurnover": "190" },
+        { "month": "17", "monthTurnover": "120" },
+        { "month": "18", "monthTurnover": "190" },
+        { "month": "19", "monthTurnover": "150" },
+        { "month": "20", "monthTurnover": "180" },
+        { "month": "21", "monthTurnover": "150" },
+        { "month": "22", "monthTurnover": "160" },
+        { "month": "23", "monthTurnover": "230" },
+        { "month": "24", "monthTurnover": "250" },
+        { "month": "25", "monthTurnover": "180" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "150" },
+        { "month": "28", "monthTurnover": "190" },
+        { "month": "29", "monthTurnover": "170" },
+        { "month": "30", "monthTurnover": "200" }
+      ]
+      
+    },
+    "madurai": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "210" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "250" },
+        { "id": 5, "year": "Q3FY22", "turnover": "230" },
+        { "id": 6, "year": "Q4FY22", "turnover": "270" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "190" },
+        { "id": 9, "year": "Q3FY23", "turnover": "240" },
+        { "id": 10, "year": "Q4FY23", "turnover": "250" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "220" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "260" },
+        { "month": "5", "monthTurnover": "250" },
+        { "month": "6", "monthTurnover": "210" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "230" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "260" },
+        { "month": "11", "monthTurnover": "120" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "240" },
+        { "month": "14", "monthTurnover": "245" },
+        { "month": "15", "monthTurnover": "140" },
+        { "month": "16", "monthTurnover": "210" },
+        { "month": "17", "monthTurnover": "295" },
+        { "month": "18", "monthTurnover": "215" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "280" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "215" },
+        { "month": "23", "monthTurnover": "290" },
+        { "month": "24", "monthTurnover": "210" },
+        { "month": "25", "monthTurnover": "240" },
+        { "month": "26", "monthTurnover": "180" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "240" },
+        { "month": "29", "monthTurnover": "250" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "thiruvallur": {
+      "barChart": [
+        { "id": 1, "year": "Q3FY21", "turnover": "220" },
+        { "id": 2, "year": "Q4FY21", "turnover": "190" },
+        { "id": 3, "year": "Q1FY22", "turnover": "250" },
+        { "id": 4, "year": "Q2FY22", "turnover": "240" },
+        { "id": 5, "year": "Q3FY22", "turnover": "330" },
+        { "id": 6, "year": "Q4FY22", "turnover": "230" },
+        { "id": 7, "year": "Q1FY23", "turnover": "290" },
+        { "id": 8, "year": "Q2FY23", "turnover": "190" },
+        { "id": 9, "year": "Q3FY23", "turnover": "230" },
+        { "id": 10, "year": "Q4FY23", "turnover": "160" }
+      ],
+      "lineChart": [
+        { "month": "1", "monthTurnover": "220" },
+        { "month": "2", "monthTurnover": "220" },
+        { "month": "3", "monthTurnover": "250" },
+        { "month": "4", "monthTurnover": "220" },
+        { "month": "5", "monthTurnover": "270" },
+        { "month": "6", "monthTurnover": "240" },
+        { "month": "7", "monthTurnover": "260" },
+        { "month": "8", "monthTurnover": "290" },
+        { "month": "9", "monthTurnover": "240" },
+        { "month": "10", "monthTurnover": "270" },
+        { "month": "11", "monthTurnover": "220" },
+        { "month": "12", "monthTurnover": "280" },
+        { "month": "13", "monthTurnover": "230" },
+        { "month": "14", "monthTurnover": "210" },
+        { "month": "15", "monthTurnover": "240" },
+        { "month": "16", "monthTurnover": "210" },
+        { "month": "17", "monthTurnover": "290" },
+        { "month": "18", "monthTurnover": "210" },
+        { "month": "19", "monthTurnover": "250" },
+        { "month": "20", "monthTurnover": "280" },
+        { "month": "21", "monthTurnover": "250" },
+        { "month": "22", "monthTurnover": "210" },
+        { "month": "23", "monthTurnover": "290" },
+        { "month": "24", "monthTurnover": "230" },
+        { "month": "25", "monthTurnover": "290" },
+        { "month": "26", "monthTurnover": "280" },
+        { "month": "27", "monthTurnover": "250" },
+        { "month": "28", "monthTurnover": "295" },
+        { "month": "29", "monthTurnover": "245" },
+        { "month": "30", "monthTurnover": "270" }
+      ]
+      
+    },
+    "overall": [
+      { "cName": "CHE", "cOverall": "234" },
+      { "cName": "CBE", "cOverall": "254" },
+      { "cName": "KAN", "cOverall": "270" },
+      { "cName": "MAD", "cOverall": "190" },
+      { "cName": "THI", "cOverall": "200" }
+    ]
+  }
+}
